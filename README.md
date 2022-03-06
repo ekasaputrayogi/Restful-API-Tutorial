@@ -7,4 +7,4 @@
 ## RESTful API
 * REST singkatan dari REpresentational State Transfer
 * RESTful API merupakan salah satu implementasi API yang menggunakan HTTP sebagai protokol komunikasinya
-![REST-API.jpg]((https://github.com/ekasaputrayogi/Restful-API-Tutorial/blob/master/Gambar/REST-API/jpg))
+![REST-API.jpg](https://github.com/ekasaputrayogi/Restful-API-Tutorial/blob/master/Gambar/REST-API.jpg)
